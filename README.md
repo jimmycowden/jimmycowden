@@ -1,5 +1,4 @@
-### Hi there 👋
-I’m currently working on ... Vanderbilt bootcamp.
+Vanderbilt bootcamp GitHub Projects
 <!--
 **jimmycowden/jimmycowden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
